@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Fictus Praedium Real Estate App</string>
+    <string name="fictus_praedium">Fictus Praedium</string>
+    <string name="real_estate">REAL ESTATE</string>
+    <string name="tagline">Feels like home, with Fictus magic</string>
+    <string name="privacy_statement">I have read and understand the Privacy statement and agree to the information collection and use of my personal information as stated in the Privacy Policy</string>
+    <string name="get_started">Get Started</string>
 </resources>

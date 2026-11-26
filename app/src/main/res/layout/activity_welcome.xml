@@ -124,7 +124,8 @@
             android:text="@string/get_started"
             android:textSize="18sp"
             android:textStyle="bold"
-            app:cornerRadius="12dp" />
+            android:background="@drawable/button_common_style"
+            />
 
     </LinearLayout>
 
